@@ -1,0 +1,397 @@
+//Question 1
+A).output==>
+
+ Maldives
+ Pakistan
+ Malaysia
+ Uzbekistan
+ Singapore
+ Qatar
+ Kazakhstan
+ Bahrain
+ India
+ Macau
+ Syria
+ Kyrgyzstan
+ Palestine
+ Taiwan
+ South Korea
+ Iraq
+ Cambodia
+ Sri Lanka
+ Israel
+ Tajikistan
+ Azerbaijan
+ Georgia
+ China
+ Thailand
+ Indonesia
+ Turkmenistan
+ Turkey
+ Iran
+ Lebanon
+ Philippines
+ Kuwait
+ Oman
+ Afghanistan
+ Armenia
+ Bangladesh
+ Laos
+ Nepal
+ Myanmar
+ United Arab Emirates
+ Bhutan
+ Jordan
+ Vietnam
+ Brunei
+ Japan
+ Hong Kong
+ Saudi Arabia
+ North Korea
+ Mongolia
+ Yemen 
+
+//-------------------------------------------------------------------------------------------------------------------------
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+//-------------------------------------------------------------------------------------------------------------------------
+
+//B). output==>
+
+ Aruba
+ Wallis and Futuna
+ Åland Islands
+ Pitcairn Islands
+ Seychelles
+ French Southern and Antarctic Lands
+ Christmas Island
+ Saint Martin
+ Heard Island and McDonald Islands
+ Antarctica
+ Greenland
+ British Indian Ocean Territory
+ Saint Lucia
+ Niue
+ Saint Barthélemy
+ Grenada
+ Isle of Man
+ Curaçao
+ Dominica
+ Faroe Islands
+ Montserrat
+ Cook Islands
+ Bermuda
+ San Marino
+ Cayman Islands
+ Cocos (Keeling) Islands
+ United States Virgin Islands
+ Norfolk Island
+ Nauru
+ Bouvet Island
+ Micronesia
+ American Samoa
+ Anguilla
+ Marshall Islands
+ Kiribati
+ Northern Mariana Islands
+ Guam
+ Gibraltar
+ Vatican City
+ Jersey
+ Tuvalu
+ Saint Helena, Ascension and Tristan da Cunha
+ Samoa
+ Guernsey
+ Tonga
+ Saint Kitts and Nevis
+ Falkland Islands
+
+//-------------------------------------------------------------------------------------------------------------------------
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+//-------------------------------------------------------------------------------------------------------------------------
+
+//C). output==>
+ Name : Mauritania Capital : Nouakchott Flag : 🇲🇷  
+script.js:43  Name : Aruba Capital : Oranjestad Flag : 🇦🇼  
+script.js:43  Name : Argentina Capital : Buenos Aires Flag : 🇦🇷  
+script.js:43  Name : Sweden Capital : Stockholm Flag : 🇸🇪  
+script.js:43  Name : Maldives Capital : Malé Flag : 🇲🇻  
+script.js:43  Name : Mexico Capital : Mexico City Flag : 🇲🇽  
+script.js:43  Name : New Zealand Capital : Wellington Flag : 🇳🇿  
+script.js:43  Name : Ecuador Capital : Quito Flag : 🇪🇨  
+script.js:43  Name : Wallis and Futuna Capital : Mata-Utu Flag : 🇼🇫  
+script.js:43  Name : Åland Islands Capital : Mariehamn Flag : 🇦🇽  
+script.js:43  Name : Montenegro Capital : Podgorica Flag : 🇲🇪  
+script.js:43  Name : Pakistan Capital : Islamabad Flag : 🇵🇰  
+script.js:43  Name : Pitcairn Islands Capital : Adamstown Flag : 🇵🇳  
+script.js:43  Name : Zambia Capital : Lusaka Flag : 🇿🇲  
+script.js:43  Name : Seychelles Capital : Victoria Flag : 🇸🇨  
+script.js:43  Name : Malaysia Capital : Kuala Lumpur Flag : 🇲🇾  
+script.js:43  Name : Norway Capital : Oslo Flag : 🇳🇴  
+script.js:43  Name : Uzbekistan Capital : Tashkent Flag : 🇺🇿  
+script.js:43  Name : Vanuatu Capital : Port Vila Flag : 🇻🇺  
+script.js:43  Name : French Southern and Antarctic Lands Capital : Port-aux-Français Flag : 🇹🇫  
+script.js:43  Name : Christmas Island Capital : Flying Fish Cove Flag : 🇨🇽  
+script.js:43  Name : Singapore Capital : Singapore Flag : 🇸🇬  
+script.js:43  Name : Suriname Capital : Paramaribo Flag : 🇸🇷  
+script.js:43  Name : Western Sahara Capital : El Aaiún Flag : 🇪🇭  
+script.js:43  Name : Saint Martin Capital : Marigot Flag : 🇲🇫  
+script.js:43  Name : Costa Rica Capital : San José Flag : 🇨🇷  
+script.js:43  Name : Heard Island and McDonald Islands Capital : undefined Flag : 🇭🇲  
+script.js:43  Name : Ireland Capital : Dublin Flag : 🇮🇪  
+script.js:43  Name : Antarctica Capital : undefined Flag : 🇦🇶  
+script.js:43  Name : Australia Capital : Canberra Flag : 🇦🇺  
+script.js:43  Name : Libya Capital : Tripoli Flag : 🇱🇾  
+script.js:43  Name : Qatar Capital : Doha Flag : 🇶🇦  
+script.js:43  Name : Greenland Capital : Nuuk Flag : 🇬🇱  
+script.js:43  Name : Mauritius Capital : Port Louis Flag : 🇲🇺  
+script.js:43  Name : Kazakhstan Capital : Nur-Sultan Flag : 🇰🇿  
+script.js:43  Name : British Indian Ocean Territory Capital : Diego Garcia Flag : 🇮🇴  
+script.js:43  Name : Albania Capital : Tirana Flag : 🇦🇱  
+script.js:43  Name : Bahrain Capital : Manama Flag : 🇧🇭  
+script.js:43  Name : Papua New Guinea Capital : Port Moresby Flag : 🇵🇬  
+script.js:43  Name : Burundi Capital : Gitega Flag : 🇧🇮  
+script.js:43  Name : India Capital : New Delhi Flag : 🇮🇳  
+script.js:43  Name : Uruguay Capital : Montevideo Flag : 🇺🇾  
+script.js:43  Name : Saint Lucia Capital : Castries Flag : 🇱🇨  
+script.js:43  Name : Barbados Capital : Bridgetown Flag : 🇧🇧  
+script.js:43  Name : New Caledonia Capital : Nouméa Flag : 🇳🇨  
+script.js:43  Name : Latvia Capital : Riga Flag : 🇱🇻  
+script.js:43  Name : Estonia Capital : Tallinn Flag : 🇪🇪  
+script.js:43  Name : Niue Capital : Alofi Flag : 🇳🇺  
+script.js:43  Name : Saint Barthélemy Capital : Gustavia Flag : 🇧🇱  
+script.js:43  Name : Puerto Rico Capital : San Juan Flag : 🇵🇷  
+script.js:43  Name : Grenada Capital : St. George's Flag : 🇬🇩  
+script.js:43  Name : Macau Capital : undefined Flag : 🇲🇴  
+script.js:43  Name : Cyprus Capital : Nicosia Flag : 🇨🇾  
+script.js:43  Name : Isle of Man Capital : Douglas Flag : 🇮🇲  
+script.js:43  Name : Greece Capital : Athens Flag : 🇬🇷  
+script.js:43  Name : Syria Capital : Damascus Flag : 🇸🇾  
+script.js:43  Name : Lithuania Capital : Vilnius Flag : 🇱🇹  
+script.js:43  Name : Curaçao Capital : Willemstad Flag : 🇨🇼  
+script.js:43  Name : Dominica Capital : Roseau Flag : 🇩🇲  
+script.js:43  Name : Niger Capital : Niamey Flag : 🇳🇪  
+script.js:43  Name : Kyrgyzstan Capital : Bishkek Flag : 🇰🇬  
+script.js:43  Name : Trinidad and Tobago Capital : Port of Spain Flag : 🇹🇹  
+script.js:43  Name : Togo Capital : Lomé Flag : 🇹🇬  
+script.js:43  Name : Palestine Capital : Ramallah,Jerusalem Flag : 🇵🇸  
+script.js:43  Name : Madagascar Capital : Antananarivo Flag : 🇲🇬  
+script.js:43  Name : Croatia Capital : Zagreb Flag : 🇭🇷  
+script.js:43  Name : Faroe Islands Capital : Tórshavn Flag : 🇫🇴  
+script.js:43  Name : Haiti Capital : Port-au-Prince Flag : 🇭🇹  
+script.js:43  Name : Montserrat Capital : Plymouth Flag : 🇲🇸  
+script.js:43  Name : Cook Islands Capital : Avarua Flag : 🇨🇰  
+script.js:43  Name : Timor-Leste Capital : Dili Flag : 🇹🇱  
+script.js:43  Name : Martinique Capital : Fort-de-France Flag : 🇲🇶  
+script.js:43  Name : Cuba Capital : Havana Flag : 🇨🇺  
+script.js:43  Name : Taiwan Capital : Taipei Flag : 🇹🇼  
+script.js:43  Name : Eswatini Capital : Mbabane Flag : 🇸🇿  
+script.js:43  Name : Ukraine Capital : Kyiv Flag : 🇺🇦  
+script.js:43  Name : Bermuda Capital : Hamilton Flag : 🇧🇲  
+script.js:43  Name : South Korea Capital : Seoul Flag : 🇰🇷  
+script.js:43  Name : Peru Capital : Lima Flag : 🇵🇪  
+script.js:43  Name : Iraq Capital : Baghdad Flag : 🇮🇶  
+script.js:43  Name : Moldova Capital : Chișinău Flag : 🇲🇩  
+script.js:43  Name : San Marino Capital : City of San Marino Flag : 🇸🇲  
+script.js:43  Name : Venezuela Capital : Caracas Flag : 🇻🇪  
+script.js:43  Name : Guyana Capital : Georgetown Flag : 🇬🇾  
+script.js:43  Name : Cayman Islands Capital : George Town Flag : 🇰🇾  
+script.js:43  Name : Cambodia Capital : Phnom Penh Flag : 🇰🇭  
+script.js:43  Name : Cocos (Keeling) Islands Capital : West Island Flag : 🇨🇨  
+script.js:43  Name : Malta Capital : Valletta Flag : 🇲🇹  
+script.js:43  Name : Sri Lanka Capital : Sri Jayawardenepura Kotte Flag : 🇱🇰  
+script.js:43  Name : Israel Capital : Jerusalem Flag : 🇮🇱  
+script.js:43  Name : Sudan Capital : Khartoum Flag : 🇸🇩  
+script.js:43  Name : United States Virgin Islands Capital : Charlotte Amalie Flag : 🇻🇮  
+script.js:43  Name : Eritrea Capital : Asmara Flag : 🇪🇷  
+script.js:43  Name : Mali Capital : Bamako Flag : 🇲🇱  
+script.js:43  Name : Somalia Capital : Mogadishu Flag : 🇸🇴  
+script.js:43  Name : Norfolk Island Capital : Kingston Flag : 🇳🇫  
+script.js:43  Name : Comoros Capital : Moroni Flag : 🇰🇲  
+script.js:43  Name : Nicaragua Capital : Managua Flag : 🇳🇮  
+script.js:43  Name : Russia Capital : Moscow Flag : 🇷🇺  
+script.js:43  Name : Uganda Capital : Kampala Flag : 🇺🇬  
+script.js:43  Name : Nauru Capital : Yaren Flag : 🇳🇷  
+script.js:43  Name : Switzerland Capital : Bern Flag : 🇨🇭  
+script.js:43  Name : Portugal Capital : Lisbon Flag : 🇵🇹  
+script.js:43  Name : Tajikistan Capital : Dushanbe Flag : 🇹🇯  
+script.js:43  Name : South Sudan Capital : Juba Flag : 🇸🇸  
+script.js:43  Name : Bouvet Island Capital : undefined Flag : 🇧🇻  
+script.js:43  Name : Micronesia Capital : Palikir Flag : 🇫🇲  
+script.js:43  Name : American Samoa Capital : Pago Pago Flag : 🇦🇸  
+script.js:43  Name : Czechia Capital : Prague Flag : 🇨🇿  
+script.js:43  Name : Botswana Capital : Gaborone Flag : 🇧🇼  
+script.js:43  Name : Tunisia Capital : Tunis Flag : 🇹🇳  
+script.js:43  Name : Anguilla Capital : The Valley Flag : 🇦🇮  
+script.js:43  Name : Guinea-Bissau Capital : Bissau Flag : 🇬🇼  
+script.js:43  Name : Slovakia Capital : Bratislava Flag : 🇸🇰  
+script.js:43  Name : Marshall Islands Capital : Majuro Flag : 🇲🇭  
+script.js:43  Name : Algeria Capital : Algiers Flag : 🇩🇿  
+script.js:43  Name : Jamaica Capital : Kingston Flag : 🇯🇲  
+script.js:43  Name : Mozambique Capital : Maputo Flag : 🇲🇿  
+script.js:43  Name : Spain Capital : Madrid Flag : 🇪🇸  
+script.js:43  Name : Honduras Capital : Tegucigalpa Flag : 🇭🇳  
+script.js:43  Name : Netherlands Capital : Amsterdam Flag : 🇳🇱  
+script.js:43  Name : South Africa Capital : Pretoria,Bloemfontein,Cape Town Flag : 🇿🇦  
+script.js:43  Name : Azerbaijan Capital : Baku Flag : 🇦🇿  
+script.js:43  Name : North Macedonia Capital : Skopje Flag : 🇲🇰  
+script.js:43  Name : Gambia Capital : Banjul Flag : 🇬🇲  
+script.js:43  Name : Liberia Capital : Monrovia Flag : 🇱🇷  
+script.js:43  Name : Luxembourg Capital : Luxembourg Flag : 🇱🇺  
+script.js:43  Name : Cape Verde Capital : Praia Flag : 🇨🇻  
+script.js:43  Name : Bahamas Capital : Nassau Flag : 🇧🇸  
+script.js:43  Name : Georgia Capital : Tbilisi Flag : 🇬🇪  
+script.js:43  Name : Kiribati Capital : South Tarawa Flag : 🇰🇮  
+script.js:43  Name : Tanzania Capital : Dodoma Flag : 🇹🇿  
+script.js:43  Name : China Capital : Beijing Flag : 🇨🇳  
+script.js:43  Name : Guatemala Capital : Guatemala City Flag : 🇬🇹  
+script.js:43  Name : São Tomé and Príncipe Capital : São Tomé Flag : 🇸🇹  
+script.js:43  Name : Germany Capital : Berlin Flag : 🇩🇪  
+script.js:43  Name : Sierra Leone Capital : Freetown Flag : 🇸🇱  
+script.js:43  Name : Chad Capital : N'Djamena Flag : 🇹🇩  
+script.js:43  Name : United Kingdom Capital : London Flag : 🇬🇧  
+script.js:43  Name : Slovenia Capital : Ljubljana Flag : 🇸🇮  
+script.js:43  Name : Thailand Capital : Bangkok Flag : 🇹🇭  
+script.js:43  Name : Indonesia Capital : Jakarta Flag : 🇮🇩  
+script.js:43  Name : Northern Mariana Islands Capital : Saipan Flag : 🇲🇵  
+script.js:43  Name : Guam Capital : Hagåtña Flag : 🇬🇺  
+script.js:43  Name : Finland Capital : Helsinki Flag : 🇫🇮  
+script.js:43  Name : Mayotte Capital : Mamoudzou Flag : 🇾🇹  
+script.js:43  Name : Gibraltar Capital : Gibraltar Flag : 🇬🇮  
+script.js:43  Name : Turkmenistan Capital : Ashgabat Flag : 🇹🇲  
+script.js:43  Name : Kosovo Capital : Pristina Flag : 🇽🇰  
+script.js:43  Name : Ivory Coast Capital : Yamoussoukro Flag : 🇨🇮  
+script.js:43  Name : Morocco Capital : Rabat Flag : 🇲🇦  
+script.js:43  Name : Dominican Republic Capital : Santo Domingo Flag : 🇩🇴  
+script.js:43  Name : Ghana Capital : Accra Flag : 🇬🇭  
+script.js:43  Name : Vatican City Capital : Vatican City Flag : 🇻🇦  
+script.js:43  Name : Jersey Capital : Saint Helier Flag : 🇯🇪  
+script.js:43  Name : Turkey Capital : Ankara Flag : 🇹🇷  
+script.js:43  Name : Tuvalu Capital : Funafuti Flag : 🇹🇻  
+script.js:43  Name : Iran Capital : Tehran Flag : 🇮🇷  
+script.js:43  Name : Egypt Capital : Cairo Flag : 🇪🇬  
+script.js:43  Name : Denmark Capital : Copenhagen Flag : 🇩🇰  
+script.js:43  Name : Kenya Capital : Nairobi Flag : 🇰🇪  
+script.js:43  Name : Bulgaria Capital : Sofia Flag : 🇧🇬  
+script.js:43  Name : Zimbabwe Capital : Harare Flag : 🇿🇼  
+script.js:43  Name : Angola Capital : Luanda Flag : 🇦🇴  
+script.js:43  Name : Nigeria Capital : Abuja Flag : 🇳🇬  
+script.js:43  Name : Poland Capital : Warsaw Flag : 🇵🇱  
+script.js:43  Name : Senegal Capital : Dakar Flag : 🇸🇳  
+script.js:43  Name : Saint Helena, Ascension and Tristan da Cunha Capital : Jamestown Flag : 🇸🇭  
+script.js:43  Name : Lebanon Capital : Beirut Flag : 🇱🇧  
+script.js:43  Name : Samoa Capital : Apia Flag : 🇼🇸  
+script.js:43  Name : Philippines Capital : Manila Flag : 🇵🇭  
+script.js:43  Name : Guernsey Capital : St. Peter Port Flag : 🇬🇬  
+script.js:43  Name : El Salvador Capital : San Salvador Flag : 🇸🇻  
+script.js:43  Name : Kuwait Capital : Kuwait City Flag : 🇰🇼  
+script.js:43  Name : Tonga Capital : Nuku'alofa Flag : 🇹🇴  
+script.js:43  Name : Oman Capital : Muscat Flag : 🇴🇲  
+script.js:43  Name : Afghanistan Capital : Kabul Flag : 🇦🇫  
+script.js:43  Name : Saint Kitts and Nevis Capital : Basseterre Flag : 🇰🇳  
+script.js:43  Name : Central African Republic Capital : Bangui Flag : 🇨🇫  
+script.js:43  Name : Serbia Capital : Belgrade Flag : 🇷🇸  
+script.js:43  Name : Armenia Capital : Yerevan Flag : 🇦🇲  
+script.js:43  Name : Bangladesh Capital : Dhaka Flag : 🇧🇩  
+script.js:43  Name : Laos Capital : Vientiane Flag : 🇱🇦  
+script.js:43  Name : Chile Capital : Santiago Flag : 🇨🇱  
+script.js:43  Name : French Polynesia Capital : Papeetē Flag : 🇵🇫  
+script.js:43  Name : Panama Capital : Panama City Flag : 🇵🇦  
+script.js:43  Name : United States Capital : Washington, D.C. Flag : 🇺🇸  
+script.js:43  Name : Nepal Capital : Kathmandu Flag : 🇳🇵  
+script.js:43  Name : Myanmar Capital : Naypyidaw Flag : 🇲🇲  
+script.js:43  Name : Falkland Islands Capital : Stanley Flag : 🇫🇰  
+script.js:43  Name : Hungary Capital : Budapest Flag : 🇭🇺  
+script.js:43  Name : Palau Capital : Ngerulmud Flag : 🇵🇼  
+script.js:43  Name : Equatorial Guinea Capital : Malabo Flag : 🇬🇶  
+script.js:43  Name : Guinea Capital : Conakry Flag : 🇬🇳  
+script.js:43  Name : United Arab Emirates Capital : Abu Dhabi Flag : 🇦🇪  
+script.js:43  Name : Turks and Caicos Islands Capital : Cockburn Town Flag : 🇹🇨  
+script.js:43  Name : British Virgin Islands Capital : Road Town Flag : 🇻🇬  
+script.js:43  Name : Liechtenstein Capital : Vaduz Flag : 🇱🇮  
+script.js:43  Name : Bosnia and Herzegovina Capital : Sarajevo Flag : 🇧🇦  
+script.js:43  Name : Malawi Capital : Lilongwe Flag : 🇲🇼  
+script.js:43  Name : Bhutan Capital : Thimphu Flag : 🇧🇹  
+script.js:43  Name : Cameroon Capital : Yaoundé Flag : 🇨🇲  
+script.js:43  Name : Andorra Capital : Andorra la Vella Flag : 🇦🇩  
+script.js:43  Name : Guadeloupe Capital : Basse-Terre Flag : 🇬🇵  
+script.js:43  Name : Republic of the Congo Capital : Brazzaville Flag : 🇨🇬  
+script.js:43  Name : Réunion Capital : Saint-Denis Flag : 🇷🇪  
+script.js:43  Name : Burkina Faso Capital : Ouagadougou Flag : 🇧🇫  
+script.js:43  Name : Jordan Capital : Amman Flag : 🇯🇴  
+script.js:43  Name : DR Congo Capital : Kinshasa Flag : 🇨🇩  
+script.js:43  Name : Tokelau Capital : Fakaofo Flag : 🇹🇰  
+script.js:43  Name : Vietnam Capital : Hanoi Flag : 🇻🇳  
+script.js:43  Name : Sint Maarten Capital : Philipsburg Flag : 🇸🇽  
+script.js:43  Name : Belgium Capital : Brussels Flag : 🇧🇪  
+script.js:43  Name : United States Minor Outlying Islands Capital : Washington DC Flag : 🇺🇲  
+script.js:43  Name : Brazil Capital : Brasília Flag : 🇧🇷  
+script.js:43  Name : Belize Capital : Belmopan Flag : 🇧🇿  
+script.js:43  Name : Antigua and Barbuda Capital : Saint John's Flag : 🇦🇬  
+script.js:43  Name : Paraguay Capital : Asunción Flag : 🇵🇾  
+script.js:43  Name : Benin Capital : Porto-Novo Flag : 🇧🇯  
+script.js:43  Name : Brunei Capital : Bandar Seri Begawan Flag : 🇧🇳  
+script.js:43  Name : Bolivia Capital : Sucre Flag : 🇧🇴  
+script.js:43  Name : Djibouti Capital : Djibouti Flag : 🇩🇯  
+script.js:43  Name : French Guiana Capital : Cayenne Flag : 🇬🇫  
+script.js:43  Name : Canada Capital : Ottawa Flag : 🇨🇦  
+script.js:43  Name : Saint Pierre and Miquelon Capital : Saint-Pierre Flag : 🇵🇲  
+script.js:43  Name : Japan Capital : Tokyo Flag : 🇯🇵  
+script.js:43  Name : Rwanda Capital : Kigali Flag : 🇷🇼  
+script.js:43  Name : Saint Vincent and the Grenadines Capital : Kingstown Flag : 🇻🇨  
+script.js:43  Name : Iceland Capital : Reykjavik Flag : 🇮🇸  
+script.js:43  Name : Belarus Capital : Minsk Flag : 🇧🇾  
+script.js:43  Name : Hong Kong Capital : City of Victoria Flag : 🇭🇰  
+script.js:43  Name : Lesotho Capital : Maseru Flag : 🇱🇸  
+script.js:43  Name : Fiji Capital : Suva Flag : 🇫🇯  
+script.js:43  Name : Austria Capital : Vienna Flag : 🇦🇹  
+script.js:43  Name : Colombia Capital : Bogotá Flag : 🇨🇴  
+script.js:43  Name : Gabon Capital : Libreville Flag : 🇬🇦  
+script.js:43  Name : Saudi Arabia Capital : Riyadh Flag : 🇸🇦  
+script.js:43  Name : South Georgia Capital : King Edward Point Flag : 🇬🇸  
+script.js:43  Name : Ethiopia Capital : Addis Ababa Flag : 🇪🇹  
+script.js:43  Name : Caribbean Netherlands Capital : Kralendijk Flag : 🇧🇶  
+script.js:43  Name : Monaco Capital : Monaco Flag : 🇲🇨  
+script.js:43  Name : North Korea Capital : Pyongyang Flag : 🇰🇵  
+script.js:43  Name : Italy Capital : Rome Flag : 🇮🇹  
+script.js:43  Name : Namibia Capital : Windhoek Flag : 🇳🇦  
+script.js:43  Name : Mongolia Capital : Ulan Bator Flag : 🇲🇳  
+script.js:43  Name : Solomon Islands Capital : Honiara Flag : 🇸🇧  
+script.js:43  Name : Yemen Capital : Sana'a Flag : 🇾🇪  
+script.js:43  Name : Romania Capital : Bucharest Flag : 🇷🇴  
+script.js:43  Name : Svalbard and Jan Mayen Capital : Longyearbyen Flag : 🇸🇯  
+script.js:43  Name : France Capital : Paris Flag : 🇫🇷  
+
+//-------------------------------------------------------------------------------------------------------------------------
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+//-------------------------------------------------------------------------------------------------------------------------
+
+//D).output==>
+ Total Population : 7777721563 
+
+//------------------------------------------------------------------------------------------------------------------------- 
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+//-------------------------------------------------------------------------------------------------------------------------
+
+//E). output==>
+American Samoa
+script.js:85 Bonaire, Sint Eustatius and Saba
+script.js:85 British Indian Ocean Territory
+script.js:85 Virgin Islands (British)
+script.js:85 Virgin Islands (U.S.)
+script.js:85 Cambodia
+script.js:85 Ecuador
+script.js:85 El Salvador
+script.js:85 Guam
+script.js:85 Marshall Islands
+script.js:85 Micronesia (Federated States of)
+script.js:85 Northern Mariana Islands
+script.js:85 Palau
+script.js:85 Panama
+script.js:85 Puerto Rico
+script.js:85 Timor-Leste
+script.js:85 Turks and Caicos Islands
+script.js:85 United States of America
+
+//-------------------------------------------------------------------------------------------------------------------------
+//>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+//-------------------------------------------------------------------------------------------------------------------------

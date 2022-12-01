@@ -1,0 +1,185 @@
+1.MRF =>Map Reduce Filter
+2.forEach
+3.destructing.
+MRF:- Array methods 
+. memory consuming and time consuming overcome. 
+. to reduce the lines of code.
+. Realtime usage: it is used extract the data from api.(restcountries)
+=>Map:
+=>basic example before map :
+var arr = [12,13,14,15]
+expected output: var res = [24,26,28,30]
+steps:-
+step 1:- for loop
+step 2:- multiply each element by 2 
+step 3:- create a new array (res) and push into it
+step 4 :- printing the res array
+
+=>after map
+map method:- it takes function as parameter and apply on 
+              each and evey element in an array
+. returns an array
+=>syntax for map:- arrayname.map((function))
+. this is function will maximum be arrow function.
+example:-
+var res = arr.map(()=>{})
+console.log(res);
+.inside the map method it takes function as parameter 
+. the parameter should represent array element.
+. parameter can be userdefined (ele,element,...) 
+. then logic goes on.
+var arr = [12,13,14,15]
+var res = arr.map((ele)=>ele*2)
+console.log(res);
+---------------------------
+class task 
+input:- var arr = ["apple", "orange","mangoe"] 
+output :-var res = ["apples", "oranges", "mangoes"]
+answer:-
+var arr1 =["apple", "orange","mangoe"] 
+var res1 = arr1.map((ele)=>ele+"s")
+console.log(res1);
+-------------------
+example using xmlhttp request:-
+print the names
+var request = new XMLHttpRequest();
+request.open("GET","https://restcountries.com/v3.1/all",true)
+request.send()
+ request.onload=function(){
+    var data = request.response
+    var result = JSON.parse(data)
+     var res2=result.map((element)=>{console.log(element.name.common)})
+    
+    }
+------------------------------
+=>Filter:-
+=>basic example before filter :
+var arr = [12,13,14,15]
+expected output: var res = [12,14]
+steps:-
+step 1:- for loop
+step 2:- divide(%) each element by 2
+step 3:- if remainder is 0 push it to the res array else skip
+step 4 :- printing the res array
+
+=>after filter:-
+. filter is  based on condition
+. it takes function as parameter and apply on 
+  each and evey element in an array
+  .if cond is true it will push to array.
+  .if cond is false it will be rejected. 
+  =>syntax: arrayname.filter((function))
+  example:-
+  var arr= [12,13,14,15]
+  var res= arr.filter((ele)=>ele%2===0)
+  console.log(res);
+//example using map and filter function.
+//xmlhttp request(find the countries population which is less than 3 lakhs)
+var request = new XMLHttpRequest();
+request.open("GET","https://restcountries.com/v3.1/all",true)
+request.send()
+ request.onload=function(){
+    var data = request.response
+    var result = JSON.parse(data)
+     var res = result.filter((ele)=>ele.population<300000)
+     //to display the filtered result countries
+     var res1 = res.map((ele)=>ele.name.common)
+     console.log(res1)
+    }
+
+//example2 using map and filter function.
+//xmlhttp request(find the countries population which is less than 3 lakhs)
+var request = new XMLHttpRequest();
+request.open("GET","https://restcountries.com/v3.1/all",true)
+request.send()
+ request.onload=function(){
+    var data = request.response
+    var result = JSON.parse(data)
+     var res = result.filter((ele)=>ele.population<300000)
+     //to display the filtered result countries
+     var res1 = res.map((ele)=>`${ele.population}: ${ele.name.common}`)
+     console.log(res1)
+    }
+
+ // example 3 : using map to get two values
+var request = new XMLHttpRequest();
+request.open("GET","https://restcountries.com/v3.1/all",true)
+request.send()
+ request.onload=function(){
+    var data = request.response
+    var result = JSON.parse(data)
+     var res = result.map((ele)=>`${ele.name.common} : ${ele.region} : ${ele.population}`);
+     console.log(res);
+          
+    }
+
+=>reduce:-
+.Reduce function will reduce the array into single value.
+.It is used only for array.
+.total , summation.
+=>syntax: arrayname.reduce((acc,cv)=>{})
+acc=>is the initial value
+======if nothing given takes the first value=====
+cv=>array element / cuurent values
+//the final output of reduce is a value
+
+//first case without initial value
+var arr = [12,13,14,15]
+var res = arr.reduce((acc,cv)=>acc +cv )
+console.log(res);
+
+//second case with initial value
+var arr = [12,13,14,15]
+var res = arr.reduce((acc,cv)=>acc +cv,0 )
+console.log(res);
+
+--------------------------------------
+//example using XMLHttpRequest (total population)
+var request = new XMLHttpRequest();
+request.open("GET","https://restcountries.com/v3.1/all",true)
+request.send()
+ request.onload=function(){
+    var data = request.response
+    var result = JSON.parse(data)
+    var res = result.reduce((acc,cv)=>acc+cv.population,0)
+    console.log(res)
+    }
+    -------------------------------
+    foreach: to print array elements
+    . it is applicable only for arrays
+    . it takes function as parameter
+    . it will apply on each and every element
+    . it returns undefined
+    . it is unidirectional.
+    .it is generally used for printing purpose.
+
+example 1 :
+var arr = [12,13,14,15]
+var res = arr.forEach((ele)=>console.log(ele))
+console.log(res)
+
+example 2 : 
+var arr = [12,13,14,15]
+arr.forEach((ele)=>console.log(ele*2))
+
+//example using XMLHttpRequest
+var request = new XMLHttpRequest();
+request.open("GET","https://restcountries.com/v3.1/all",true)
+request.send()
+ request.onload=function(){
+    var data = request.response
+    var result = JSON.parse(data)
+    var res = result.forEach((ele)=>{console.log(`${ele.name.common} ${ele.capital} ${ele.region}`)})
+    }
+
+---------------------------------------
+destructring:-
+expanding array elements 
+similar to spread operator
+it allows us to unpack the array elements into bunch of variables.
+ ex:-
+ var arr = ["john","apple"]
+ var [fistname, lastname]=arr
+ console.log(fistname)
+ console.log(lastname)    
+ ----------------------------------------------------------
